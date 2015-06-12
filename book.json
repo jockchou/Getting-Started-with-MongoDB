@@ -1,0 +1,7 @@
+{
+    "gitbook": ">=2.0.0",
+    "title": "Getting Started with MongoDB",
+    "description": "MongoDB入门指南",
+    "language": "zh",
+    "direction": "ltr"
+}
