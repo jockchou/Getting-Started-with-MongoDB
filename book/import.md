@@ -38,4 +38,4 @@ mongoimport --db test --collection restaurants --drop --file C:\data\dataset.jso
 
 `mongoimport`命令连接到本机运行的`mongod`实例，如果要把数据导到不同主机，不同端口的实例，可以指定主机和端口，使用参数 `--host`和`--port`。
 
-数据导入后，你可以用`mongo`命令连接到实例，使用`show dbs`，`use test`，`show collections`和`db.collections.find()`命令查看导入的数据。
+数据导入后，你可以用`mongo`命令连接到实例，使用`show dbs`，`use test`，`show collections`和`db.restaurants.find()`命令查看导入的数据。
