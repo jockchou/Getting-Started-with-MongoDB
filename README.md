@@ -4,3 +4,5 @@
 本教程是基础入门级别的，只包含MongoDB非常基础的CURD操作和基本概念，适合第一次接触MongoDB的人员阅读。
 
 本教程不涉及MongoDB复制集，分片集群，分布式文件存储，监控与管理等内容。以上知识请参考[MongoDB官方手册](http://docs.mongodb.org/manual/)。
+
+[开始阅读](http://jockchou.gitbooks.io/getting-started-with-mongodb/content/)
