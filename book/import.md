@@ -26,7 +26,7 @@
 
 ## 导入例子数据 ##
 
-在进行操作之前，我们需要例子数据，在这里下载数据文件[dataset.json](../download/dataset.json)。
+在进行操作之前，我们需要例子数据，在这里下载数据文件[dataset.json](../../download/dataset.json)。
 
 ## 导入数据到集合 ##
 

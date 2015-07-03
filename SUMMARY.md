@@ -9,3 +9,5 @@
 * [更新数据](./book/update.md)
 * [删除数据](./book/remove.md)
 * [数据聚集](./book/aggregation.md)
+* [Journaling日志](./book/journal.md)
+* [原子性和事务](./book/transactions.md)
